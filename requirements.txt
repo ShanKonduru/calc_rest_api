@@ -3,6 +3,5 @@ dotenv
 pytest
 flask
 jsonify
-functools
 
 
